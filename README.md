@@ -12,7 +12,7 @@
 <li>Payment Gateway Integration & Place Order</li>
 <li>Review and Rating System. Two Factor Checks for Submitting Reviews (Login check & Product purchase check)</li>
 <li>Product Gallery with Unlimited Images</li>
-<i>Invoice email to customer</li>
+<li>Invoice email to customer</li>
 <li>Django Security Measures</li>
 <li>Deploying Application on AWS Elastic Beanstalk (EB)</li>
 
