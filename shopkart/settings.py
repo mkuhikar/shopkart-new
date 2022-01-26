@@ -108,16 +108,7 @@ else:
         }
     }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'ebdb',
-#         'USER': 'mkuhikar',
-#         'PASSWORD': 'Lans-7122787199',
-#         'HOST': 'aa5p9soe179105.c7gkreqrgln0.us-west-2.rds.amazonaws.com',
-#         'PORT': 5432,
-#     }
-# }
+
 
 
 
