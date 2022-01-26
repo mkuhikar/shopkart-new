@@ -31,7 +31,7 @@ from .tasks import *
 # Create your views here.
 def delayprogram(request):
     sleepy.delay(10)
-    return HttpResponse("<h1>Hello bhai from celery</h1>")
+    return HttpResponse("<h1>Testing celery</h1>")
 def register(request):
     if request.method == 'POST':
         form = RegistrationForm(request.POST)
